@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Fine Print (Legal)
-subtitle: "Updated March 2015"
+title: La cosa legal
+subtitle: "Actualizado Diciembre 2017"
 skip_footer: true
 ---
 
@@ -10,9 +10,10 @@ skip_footer: true
 [ah]: http://www.thenounproject.com/ahainen
 [noun]: http://www.thenounproject.com
 
-Disclaimer: Matt Swanson is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+Disclaimer: 
 
-The postings on this site are my own and don't necessarily represent my 
-  employer’s positions, strategies or opinions.
+Este sitio usa galletitas, también llamadas *cookies* o *María Fernanda*. Estoy leyéndote la mente y voy a controlar todas tus cuentas bancarias. 
 
-&copy; 2010&ndash;2015, Matt Swanson
+Lo que escribo aquí es mío y me lo f*** cuando quiero. 
+
+&copy; 2005&ndash;2017, Hentrekott. Proudly made in Denmark. 
