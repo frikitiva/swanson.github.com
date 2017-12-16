@@ -1,9 +1,25 @@
+---
+title: Frikitiva.Github.Com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 lsi: false
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-exclude: ["CNAME", "README.md", "Rakefile", "generate.rb", "Gemfile", "Gemfile.lock"]
+exclude:
+- CNAME
+- README.md
+- Rakefile
+- generate.rb
+- Gemfile
+- Gemfile.lock
 gems:
-  - jekyll-sitemap
-  - jemoji
+- jekyll-sitemap
+- jemoji

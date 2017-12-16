@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Archives
+layout: post
 skip_related: true
 ---
 
